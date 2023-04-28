@@ -22,6 +22,8 @@
 - UrlRewriter: raw rules were not loaded from legacy storage
 - Fixed a topic was not editable if a menu link with an invalid target was associated.
 - MainMenuShrinker was missing.
+- Added missing properties in customer grid.
+- Fixed popular product tags were not loaded based on the frequency of their product assignments on homepage.
 
 
 ## Smartstore 5.0.4
